@@ -72,4 +72,11 @@ ALL_RED_2
 PED_WALK_TO_NS
    ↓
 NS_GREEN
+```
+## Simulation
 
+The design was simulated using Icarus Verilog on EDA Playground.
+
+The waveform below shows the FSM transitions, counter operation, pedestrian request handling, and pedestrian walk signal.
+
+![Simulation Waveform](waveform.png)
